@@ -909,4 +909,5 @@ def generate_advice():
 #####  养殖建议一键生成部分 end end end ##################
 
 if __name__ == '__main__':
+    print("Hello from B3")
     app.run(debug=True)
