@@ -791,4 +791,5 @@ def video_feed_front():
 
 if __name__ == '__main__':
     # app.run(debug=True)
+    print("Hello from B2")
     app.run(host='0.0.0.0', port=5200, debug=True)
